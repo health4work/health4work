@@ -24,5 +24,5 @@
 //  TODO   
 
 ## 参考资料：
-[颈椎病-百度百科](https://baike.baidu.com/item/%E9%A2%88%E6%A4%8E%E7%97%85)
+[颈椎病](https://www.msdmanuals.cn/home/brain-spinal-cord-and-nerve-disorders/spinal-cord-disorders/cervical-spondylosis)
 
